@@ -1,2 +1,1 @@
 print('anhui')
-print('ddd')
